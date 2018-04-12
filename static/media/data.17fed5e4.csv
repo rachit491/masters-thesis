@@ -1,0 +1,17 @@
+﻿x,y,value
+Alice,Alice,0
+Alice,Bob,0.9
+Alice,Carl,0.65
+Alice,David,0.5
+Bob,Alice,0.9
+Bob,Bob,0
+Bob,Carl,0.8
+Bob,David,0.23
+Carl,Alice,0.65
+Carl,Bob,0.8
+Carl,Carl,0
+Carl,David,0.7
+David,Alice,0.5
+David,Bob,0.23
+David,Carl,0.7
+David,David,0
