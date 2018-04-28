@@ -1,8 +1,11 @@
 {
-  "main.css": "static/css/main.0ea7753c.css",
-  "main.css.map": "static/css/main.0ea7753c.css.map",
-  "main.js": "static/js/main.8f9925ae.js",
-  "main.js.map": "static/js/main.8f9925ae.js.map",
+  "main.css": "static/css/main.cc10113a.css",
+  "main.css.map": "static/css/main.cc10113a.css.map",
+  "main.js": "static/js/main.c370be25.js",
+  "main.js.map": "static/js/main.c370be25.js.map",
+  "static/media/back.png": "static/media/back.61714fb5.png",
   "static/media/data.csv": "static/media/data.1eeb9145.csv",
+  "static/media/data2.csv": "static/media/data2.eb580b20.csv",
+  "static/media/delete.png": "static/media/delete.ebfb29d8.png",
   "static/media/info-symbol-vector-graphics.png": "static/media/info-symbol-vector-graphics.5ad3c54d.png"
 }
