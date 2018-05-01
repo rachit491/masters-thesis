@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.82d0967c.css",
-  "main.css.map": "static/css/main.82d0967c.css.map",
-  "main.js": "static/js/main.e5e3b03d.js",
-  "main.js.map": "static/js/main.e5e3b03d.js.map",
+  "main.css": "static/css/main.ece7af72.css",
+  "main.css.map": "static/css/main.ece7af72.css.map",
+  "main.js": "static/js/main.297bd6e7.js",
+  "main.js.map": "static/js/main.297bd6e7.js.map",
   "static/media/back.png": "static/media/back.61714fb5.png",
   "static/media/cardPlace1.wav": "static/media/cardPlace1.a400b363.wav",
   "static/media/cardPlace2.wav": "static/media/cardPlace2.efcc96dd.wav",
@@ -15,8 +15,10 @@
   "static/media/cardSlide7.wav": "static/media/cardSlide7.6eed7e60.wav",
   "static/media/cardSlide8.wav": "static/media/cardSlide8.56a86809.wav",
   "static/media/chipLay.wav": "static/media/chipLay.08279e60.wav",
-  "static/media/data.csv": "static/media/data.1eeb9145.csv",
-  "static/media/data2.csv": "static/media/data2.eb580b20.csv",
+  "static/media/data.csv": "static/media/data.1c4a0917.csv",
+  "static/media/data2.csv": "static/media/data2.8095bd77.csv",
+  "static/media/data3.csv": "static/media/data3.cec07dbd.csv",
   "static/media/delete.png": "static/media/delete.ebfb29d8.png",
-  "static/media/info-symbol-vector-graphics.png": "static/media/info-symbol-vector-graphics.5ad3c54d.png"
+  "static/media/info-symbol-vector-graphics.png": "static/media/info-symbol-vector-graphics.5ad3c54d.png",
+  "static/media/loadingsome.gif": "static/media/loadingsome.8479a67a.gif"
 }
